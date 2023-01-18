@@ -1,2 +1,2 @@
-# Shopping-cart-reduxstore
+# Shopping-Cart
 Created with CodeSandbox
